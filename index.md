@@ -9,29 +9,24 @@ This weapon is designed to pull yourself up to the boss when you can’t reach a
 You can always contact me at paper#1028 to complain, send ~~memes~~ questions, or say hi
 
 <h2>The CONTENT</h2>
-
--What to expect from Wired Lance
-
--Spacing and critical distance
-
--The trusty skill build and subclass
-
--Attacks and actions in depth
-
--How to fight featuring sick combos
-
--Best gear and augments (rip $$ tho)
-
+<ul>
+ <li>What to expect from Wired Lance</li>
+<li>Spacing and critical distance</li>
+<li>The trusty skill build and subclass</li>
+<li>Attacks and actions in depth</li>
+<li>How to fight featuring sick combos</li>
+<li>Best gear and augments (rip $$ tho)</li>
+</ul>
 <h2>What to expect from Wired Lance</h2>
 
 _Why put yourself through this?_
 
-Wired Lance is a <del>method of transportation</del> mid-range melee weapon. That means you play BEHIND other melee classes but in FRONT of rangers and magic casters. A typical fight will look like this:
+Wired Lance is a <strike>method of transportation</strike> mid-range melee weapon. That means you play BEHIND other melee classes but in FRONT of rangers and magic casters. A typical fight will look like this:
 
-![alt_text](images/image38.png "image_tooltip")
+![](images/image38.png)
 
 
-It’s designed around a gimmick called critical distance. The weapon does more damage hitting at the tip of your range. Hit with the lance, not the wire!
+It’s designed around a gimmick called critical distance. The weapon does more damage hitting at the tip of your range. <span style="color:#f03c15">Hit with the lance, not the wire!</span><p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 2; WARNINGs: 0; ALERTS: 143.</p>
 
 **What’s good:**
 
