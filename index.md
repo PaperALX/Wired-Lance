@@ -1,183 +1,4 @@
-<!-- Copy and paste the converted output. -->
-
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 2
-* WARNINGs: 0
-* ALERTS: 143
-
-Conversion time: 30.468 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Thu Jan 27 2022 19:40:03 GMT-0800 (PST)
-* Source doc: The Wire's Tale
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 2; WARNINGs: 0; ALERTS: 143.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-<a href="#gdcalert10">alert10</a>
-<a href="#gdcalert11">alert11</a>
-<a href="#gdcalert12">alert12</a>
-<a href="#gdcalert13">alert13</a>
-<a href="#gdcalert14">alert14</a>
-<a href="#gdcalert15">alert15</a>
-<a href="#gdcalert16">alert16</a>
-<a href="#gdcalert17">alert17</a>
-<a href="#gdcalert18">alert18</a>
-<a href="#gdcalert19">alert19</a>
-<a href="#gdcalert20">alert20</a>
-<a href="#gdcalert21">alert21</a>
-<a href="#gdcalert22">alert22</a>
-<a href="#gdcalert23">alert23</a>
-<a href="#gdcalert24">alert24</a>
-<a href="#gdcalert25">alert25</a>
-<a href="#gdcalert26">alert26</a>
-<a href="#gdcalert27">alert27</a>
-<a href="#gdcalert28">alert28</a>
-<a href="#gdcalert29">alert29</a>
-<a href="#gdcalert30">alert30</a>
-<a href="#gdcalert31">alert31</a>
-<a href="#gdcalert32">alert32</a>
-<a href="#gdcalert33">alert33</a>
-<a href="#gdcalert34">alert34</a>
-<a href="#gdcalert35">alert35</a>
-<a href="#gdcalert36">alert36</a>
-<a href="#gdcalert37">alert37</a>
-<a href="#gdcalert38">alert38</a>
-<a href="#gdcalert39">alert39</a>
-<a href="#gdcalert40">alert40</a>
-<a href="#gdcalert41">alert41</a>
-<a href="#gdcalert42">alert42</a>
-<a href="#gdcalert43">alert43</a>
-<a href="#gdcalert44">alert44</a>
-<a href="#gdcalert45">alert45</a>
-<a href="#gdcalert46">alert46</a>
-<a href="#gdcalert47">alert47</a>
-<a href="#gdcalert48">alert48</a>
-<a href="#gdcalert49">alert49</a>
-<a href="#gdcalert50">alert50</a>
-<a href="#gdcalert51">alert51</a>
-<a href="#gdcalert52">alert52</a>
-<a href="#gdcalert53">alert53</a>
-<a href="#gdcalert54">alert54</a>
-<a href="#gdcalert55">alert55</a>
-<a href="#gdcalert56">alert56</a>
-<a href="#gdcalert57">alert57</a>
-<a href="#gdcalert58">alert58</a>
-<a href="#gdcalert59">alert59</a>
-<a href="#gdcalert60">alert60</a>
-<a href="#gdcalert61">alert61</a>
-<a href="#gdcalert62">alert62</a>
-<a href="#gdcalert63">alert63</a>
-<a href="#gdcalert64">alert64</a>
-<a href="#gdcalert65">alert65</a>
-<a href="#gdcalert66">alert66</a>
-<a href="#gdcalert67">alert67</a>
-<a href="#gdcalert68">alert68</a>
-<a href="#gdcalert69">alert69</a>
-<a href="#gdcalert70">alert70</a>
-<a href="#gdcalert71">alert71</a>
-<a href="#gdcalert72">alert72</a>
-<a href="#gdcalert73">alert73</a>
-<a href="#gdcalert74">alert74</a>
-<a href="#gdcalert75">alert75</a>
-<a href="#gdcalert76">alert76</a>
-<a href="#gdcalert77">alert77</a>
-<a href="#gdcalert78">alert78</a>
-<a href="#gdcalert79">alert79</a>
-<a href="#gdcalert80">alert80</a>
-<a href="#gdcalert81">alert81</a>
-<a href="#gdcalert82">alert82</a>
-<a href="#gdcalert83">alert83</a>
-<a href="#gdcalert84">alert84</a>
-<a href="#gdcalert85">alert85</a>
-<a href="#gdcalert86">alert86</a>
-<a href="#gdcalert87">alert87</a>
-<a href="#gdcalert88">alert88</a>
-<a href="#gdcalert89">alert89</a>
-<a href="#gdcalert90">alert90</a>
-<a href="#gdcalert91">alert91</a>
-<a href="#gdcalert92">alert92</a>
-<a href="#gdcalert93">alert93</a>
-<a href="#gdcalert94">alert94</a>
-<a href="#gdcalert95">alert95</a>
-<a href="#gdcalert96">alert96</a>
-<a href="#gdcalert97">alert97</a>
-<a href="#gdcalert98">alert98</a>
-<a href="#gdcalert99">alert99</a>
-<a href="#gdcalert100">alert100</a>
-<a href="#gdcalert101">alert101</a>
-<a href="#gdcalert102">alert102</a>
-<a href="#gdcalert103">alert103</a>
-<a href="#gdcalert104">alert104</a>
-<a href="#gdcalert105">alert105</a>
-<a href="#gdcalert106">alert106</a>
-<a href="#gdcalert107">alert107</a>
-<a href="#gdcalert108">alert108</a>
-<a href="#gdcalert109">alert109</a>
-<a href="#gdcalert110">alert110</a>
-<a href="#gdcalert111">alert111</a>
-<a href="#gdcalert112">alert112</a>
-<a href="#gdcalert113">alert113</a>
-<a href="#gdcalert114">alert114</a>
-<a href="#gdcalert115">alert115</a>
-<a href="#gdcalert116">alert116</a>
-<a href="#gdcalert117">alert117</a>
-<a href="#gdcalert118">alert118</a>
-<a href="#gdcalert119">alert119</a>
-<a href="#gdcalert120">alert120</a>
-<a href="#gdcalert121">alert121</a>
-<a href="#gdcalert122">alert122</a>
-<a href="#gdcalert123">alert123</a>
-<a href="#gdcalert124">alert124</a>
-<a href="#gdcalert125">alert125</a>
-<a href="#gdcalert126">alert126</a>
-<a href="#gdcalert127">alert127</a>
-<a href="#gdcalert128">alert128</a>
-<a href="#gdcalert129">alert129</a>
-<a href="#gdcalert130">alert130</a>
-<a href="#gdcalert131">alert131</a>
-<a href="#gdcalert132">alert132</a>
-<a href="#gdcalert133">alert133</a>
-<a href="#gdcalert134">alert134</a>
-<a href="#gdcalert135">alert135</a>
-<a href="#gdcalert136">alert136</a>
-<a href="#gdcalert137">alert137</a>
-<a href="#gdcalert138">alert138</a>
-<a href="#gdcalert139">alert139</a>
-<a href="#gdcalert140">alert140</a>
-<a href="#gdcalert141">alert141</a>
-<a href="#gdcalert142">alert142</a>
-<a href="#gdcalert143">alert143</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-**Wired Lance Instructions Manual**
+<h1>Wired Lance Instructions Manual</h1>
 
 So Wired Lance still sucks even though it’s got some spice this time around.
 
@@ -187,7 +8,7 @@ This weapon is designed to pull yourself up to the boss when you can’t reach a
 
 You can always contact me at paper#1028 to complain, send ~~memes~~ questions, or say hi
 
-**The CONTENT**
+<h2>The CONTENT</h2>
 
 -What to expect from Wired Lance
 
@@ -201,18 +22,13 @@ You can always contact me at paper#1028 to complain, send ~~memes~~ questions, o
 
 -Best gear and augments (rip $$ tho)
 
-**What to expect from Wired Lance**
+<h2>What to expect from Wired Lance</h2>
 
 _Why put yourself through this?_
 
-Wired Lance is a ~~method of transportation~~ mid-range melee weapon. That means you play BEHIND other melee classes but in FRONT of rangers and magic casters. A typical fight will look like this:
+Wired Lance is a <del>method of transportation</del> mid-range melee weapon. That means you play BEHIND other melee classes but in FRONT of rangers and magic casters. A typical fight will look like this:
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](images/image38.png "image_tooltip")
 
 
 It’s designed around a gimmick called critical distance. The weapon does more damage hitting at the tip of your range. Hit with the lance, not the wire!
